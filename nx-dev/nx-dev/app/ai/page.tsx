@@ -4,6 +4,7 @@ import { Hero } from '@nx/nx-dev/ui-ai-landing-page';
 import { ProblemStatement } from '@nx/nx-dev/ui-ai-landing-page';
 import { SolutionOverview } from '@nx/nx-dev/ui-ai-landing-page';
 import { Features } from '@nx/nx-dev/ui-ai-landing-page';
+import { CallToAction } from '@nx/nx-dev/ui-ai-landing-page';
 
 export const metadata: Metadata = {
   title: 'Nx - Make AI Work in Large Codebases',
@@ -63,7 +64,7 @@ export default function AiLandingPage() {
       </div>
 
       <div className="overflow-hidden py-8 sm:py-8">
-        {/* Placeholder comment: Call to Action section will go here */}
+        <CallToAction />
       </div>
     </DefaultLayout>
   );

@@ -13,4 +13,4 @@ export * from './lib/workspace-intelligence';
 // export * from './lib/social-proof';
 // export * from './lib/getting-started';
 // export * from './lib/resources';
-// export * from './lib/call-to-action';
+export * from './lib/call-to-action';
