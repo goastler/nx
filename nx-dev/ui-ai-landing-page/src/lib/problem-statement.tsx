@@ -27,10 +27,19 @@ export function ProblemStatement({
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     viewBox="0 0 24 24"
-                    fill="currentColor"
+                    fill="none"
+                    stroke="currentColor"
+                    strokeWidth="2"
                     className="h-5 w-5"
                   >
-                    <path d="M10 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2h-8l-2-2z" />
+                    <circle cx="5" cy="5" r="2" />
+                    <circle cx="19" cy="5" r="2" />
+                    <circle cx="5" cy="19" r="2" />
+                    <circle cx="19" cy="19" r="2" />
+                    <path d="M7 5H17" />
+                    <path d="M5 7V17" />
+                    <path d="M7 19H17" />
+                    <path d="M19 7V17" />
                   </svg>
                 </div>
                 <div>
@@ -49,10 +58,15 @@ export function ProblemStatement({
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     viewBox="0 0 24 24"
-                    fill="currentColor"
+                    fill="none"
+                    stroke="currentColor"
+                    strokeWidth="2"
                     className="h-5 w-5"
                   >
-                    <path d="M21 3H3c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h18c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm0 16H3V5h18v14zM8 15c0-1.66 1.34-3 3-3 .35 0 .69.07 1 .18V6h5v2h-3v7.03c-.02 1.64-1.35 2.97-3 2.97-1.66 0-3-1.34-3-3z" />
+                    <path d="M14 3V7C14 7.55228 14.4477 8 15 8H19" />
+                    <path d="M17 21H7C5.89543 21 5 20.1046 5 19V5C5 3.89543 5.89543 3 7 3H14L19 8V19C19 20.1046 18.1046 21 17 21Z" />
+                    <path d="M9 17H15" />
+                    <path d="M9 13H15" />
                   </svg>
                 </div>
                 <div>
@@ -71,10 +85,17 @@ export function ProblemStatement({
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     viewBox="0 0 24 24"
-                    fill="currentColor"
+                    fill="none"
+                    stroke="currentColor"
+                    strokeWidth="2"
                     className="h-5 w-5"
                   >
-                    <path d="M14.4 6L14 4H5v17h2v-7h5.6l.4 2h7V6z" />
+                    <circle cx="12" cy="8" r="3" />
+                    <circle cx="6" cy="16" r="2" />
+                    <circle cx="18" cy="16" r="2" />
+                    <path d="M9.5 9.5L7 14" strokeLinecap="round" />
+                    <path d="M14.5 9.5L17 14" strokeLinecap="round" />
+                    <path d="M8 16L16 16" strokeLinecap="round" />
                   </svg>
                 </div>
                 <div>
@@ -93,10 +114,18 @@ export function ProblemStatement({
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     viewBox="0 0 24 24"
-                    fill="currentColor"
+                    fill="none"
+                    stroke="currentColor"
+                    strokeWidth="2"
                     className="h-5 w-5"
                   >
-                    <path d="M19 2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h4l3 3 3-3h4c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 16H5V4h14v14z" />
+                    <rect x="2" y="4" width="20" height="16" rx="2" />
+                    <path
+                      d="M6 10L10 14L6 18"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                    />
+                    <path d="M12 18H18" strokeLinecap="round" />
                   </svg>
                 </div>
                 <div>
@@ -124,10 +153,19 @@ export function ProblemStatement({
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     viewBox="0 0 24 24"
-                    fill="currentColor"
+                    fill="none"
+                    stroke="currentColor"
+                    strokeWidth="2"
                     className="h-5 w-5"
                   >
-                    <path d="M21 3H3c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h18c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zM10 17H5v-2h5v2zm0-4H5v-2h5v2zm0-4H5V7h5v2zm4.82 6L12 12.16l1.41-1.41 1.41 1.42L17.99 9l1.42 1.42-4.6 4.58z" />
+                    <circle cx="5" cy="5" r="2" />
+                    <circle cx="19" cy="5" r="2" />
+                    <circle cx="5" cy="19" r="2" />
+                    <circle cx="19" cy="19" r="2" />
+                    <path d="M7 5H17" />
+                    <path d="M5 7V17" />
+                    <path d="M7 19H17" />
+                    <path d="M19 7V17" />
                   </svg>
                 </div>
                 <div>
@@ -146,10 +184,15 @@ export function ProblemStatement({
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     viewBox="0 0 24 24"
-                    fill="currentColor"
+                    fill="none"
+                    stroke="currentColor"
+                    strokeWidth="2"
                     className="h-5 w-5"
                   >
-                    <path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-2 10h-4v4h-2v-4H7v-2h4V7h2v4h4v2z" />
+                    <path d="M14 3V7C14 7.55228 14.4477 8 15 8H19" />
+                    <path d="M17 21H7C5.89543 21 5 20.1046 5 19V5C5 3.89543 5.89543 3 7 3H14L19 8V19C19 20.1046 18.1046 21 17 21Z" />
+                    <path d="M9 17H15" />
+                    <path d="M9 13H15" />
                   </svg>
                 </div>
                 <div>
@@ -168,10 +211,26 @@ export function ProblemStatement({
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     viewBox="0 0 24 24"
-                    fill="currentColor"
+                    fill="none"
+                    stroke="currentColor"
+                    strokeWidth="2"
                     className="h-5 w-5"
                   >
-                    <path d="M21 16v-2l-8-5V3.5c0-.83-.67-1.5-1.5-1.5S10 2.67 10 3.5V9l-8 5v2l8-2.5V19l-2 1.5V22l3.5-1 3.5 1v-1.5L13 19v-5.5l8 2.5z" />
+                    <path
+                      d="M12 2L2 7L12 12L22 7L12 2Z"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                    />
+                    <path
+                      d="M2 17L12 22L22 17"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                    />
+                    <path
+                      d="M2 12L12 17L22 12"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                    />
                   </svg>
                 </div>
                 <div>
@@ -190,10 +249,37 @@ export function ProblemStatement({
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     viewBox="0 0 24 24"
-                    fill="currentColor"
+                    fill="none"
+                    stroke="currentColor"
+                    strokeWidth="2"
                     className="h-5 w-5"
                   >
-                    <path d="M9 21c0 .55.45 1 1 1h4c.55 0 1-.45 1-1v-1H9v1zm3-19C8.14 2 5 5.14 5 9c0 2.38 1.19 4.47 3 5.74V17c0 .55.45 1 1 1h6c.55 0 1-.45 1-1v-2.26c1.81-1.27 3-3.36 3-5.74 0-3.86-3.14-7-7-7zm2.85 11.1l-.85.6V16h-4v-2.3l-.85-.6C7.8 12.16 7 10.63 7 9c0-2.76 2.24-5 5-5s5 2.24 5 5c0 1.63-.8 3.16-2.15 4.1z" />
+                    <path
+                      d="M6 6L14 6"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                    />
+                    <path
+                      d="M6 10H18"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                    />
+                    <path
+                      d="M13 14H18"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                    />
+                    <path
+                      d="M13 18H18"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                    />
+                    <path d="M2 21.4V2.6C2 2.26863 2.26863 2 2.6 2H21.4C21.7314 2 22 2.26863 22 2.6V21.4C22 21.7314 21.7314 22 21.4 22H2.6C2.26863 22 2 21.7314 2 21.4Z" />
+                    <path
+                      d="M6 18V14L8 16L10 14V18"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                    />
                   </svg>
                 </div>
                 <div>
