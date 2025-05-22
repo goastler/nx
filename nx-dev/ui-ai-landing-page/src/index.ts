@@ -1,0 +1,16 @@
+export * from './lib/hero';
+export * from './lib/problem-statement';
+export * from './lib/solution-overview';
+export * from './lib/features';
+export * from './lib/workspace-intelligence';
+// export * from './lib/ci-integration';
+// export * from './lib/terminal-integration';
+// export * from './lib/smart-code-generation';
+// export * from './lib/documentation-aware';
+// export * from './lib/technical-implementation';
+// export * from './lib/use-cases';
+// export * from './lib/competitive-differentiation';
+// export * from './lib/social-proof';
+// export * from './lib/getting-started';
+// export * from './lib/resources';
+// export * from './lib/call-to-action';
