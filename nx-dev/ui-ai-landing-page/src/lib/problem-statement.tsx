@@ -179,7 +179,7 @@ export function ProblemStatement({
                     Integrated Workflows
                   </h4>
                   <p className="text-sm text-slate-600 dark:text-slate-300">
-                    Connect editor, CI, and AI for truly context-aware
+                    Connect editor, terminal, CI, and AI for truly context-aware
                     assistance across your entire workspace.
                   </p>
                 </div>

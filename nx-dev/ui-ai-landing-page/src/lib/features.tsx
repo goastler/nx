@@ -29,32 +29,41 @@ export function Features(): ReactElement {
                 fill="none"
                 xmlns="http://www.w3.org/2000/svg"
               >
+                <circle
+                  cx="12"
+                  cy="8"
+                  r="3"
+                  stroke="currentColor"
+                  strokeWidth="2"
+                />
+                <circle
+                  cx="6"
+                  cy="16"
+                  r="2"
+                  stroke="currentColor"
+                  strokeWidth="2"
+                />
+                <circle
+                  cx="18"
+                  cy="16"
+                  r="2"
+                  stroke="currentColor"
+                  strokeWidth="2"
+                />
                 <path
-                  d="M9 4.45c.74-.77 1.07-1.55 2.15-1.55 1.88 0 2 1.55 3.15 1.55.58 0 1.02-.37 1.4-.76"
+                  d="M9.5 9.5L7 14"
                   stroke="currentColor"
                   strokeWidth="2"
                   strokeLinecap="round"
                 />
                 <path
-                  d="M12.5 3v5"
+                  d="M14.5 9.5L17 14"
                   stroke="currentColor"
                   strokeWidth="2"
                   strokeLinecap="round"
                 />
                 <path
-                  d="M3 14c0 3 2 5 5 5 2.5 0 2.5-2 5-2 2.5 0 2.5 2 5 2 3 0 5-2 5-5"
-                  stroke="currentColor"
-                  strokeWidth="2"
-                  strokeLinecap="round"
-                />
-                <path
-                  d="M3 9v10"
-                  stroke="currentColor"
-                  strokeWidth="2"
-                  strokeLinecap="round"
-                />
-                <path
-                  d="M21 9v10"
+                  d="M8 16L16 16"
                   stroke="currentColor"
                   strokeWidth="2"
                   strokeLinecap="round"
